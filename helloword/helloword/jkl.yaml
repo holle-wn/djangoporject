@@ -1,0 +1,13 @@
+publish:
+  - app:
+    name: 123
+#    url: /pages/logs/logs
+  - app:
+    name: 234
+#    url: /pages/logs/logs
+  - app:
+    name: 笑话
+#    url: /pages/jokes/jokes
+
+develoap:
+  - app:

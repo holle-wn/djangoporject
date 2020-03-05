@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+            crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="jumbotron">
+    <h1>{{ article.title }}</h1>
+    <p>{{ article.content }}</p>
+</div>
+<nav aria-label="...">
+    <ul class="pager">
+        {% if up_article.title == article.title %}
+            <li><a href="{{ next_article.aticle_id }}">Next: {{ next_article.title }}</a></li>
+        {% elif next_article.title == article.title %}
+            <li><a href="{{ up_article.aticle_id }}">Previous: {{ up_article.title }}</a></li>
+        {% else %}
+            <li><a href="{{ up_article.aticle_id }}">Previous: {{ up_article.title }}</a></li>
+            <li><a href="{{ next_article.aticle_id }}">Next: {{ next_article.title }}</a></li>
+        {% endif %}
+    </ul>
+</nav>
+</body>
+</html>
