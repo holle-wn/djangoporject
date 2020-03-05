@@ -1,0 +1,5 @@
+<!--pages/login/login.wxml-->
+<text>pages/login/login.wxml</text>
+<button class="weui-btn" type="primary"  bindtap="getCookie">获取cookie</button>
+<button class="weui-btn" type="primary"  bindtap="sendCookie">发送cookie</button>
+<button class="weui-btn" type="primary" bindtap="authorize">登录</button>

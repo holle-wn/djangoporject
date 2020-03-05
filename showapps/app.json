@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/juhe/juhe",
+    "pages/login/login",
+    "pages/logs/logs",
+    "pages/upimage/upimage",
+    "pages/jokes/jokes",
+    "pages/homepage/homepage"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/juhe/juhe",
+        "text": "应用"
+      },
+      {
+        "pagePath": "pages/homepage/homepage",
+        "text": "个人"
+      },
+      {
+        "pagePath": "pages/upimage/upimage",
+        "text": "上传图片"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,5 @@
+<!--pages/jokes/jokes.wxml-->
+<text>pages/jokes/jokes.wxml</text>
+<view wx:for='{{content}}' wx:key='*this'>
+  <text>{{item.content}}</text>
+</view>

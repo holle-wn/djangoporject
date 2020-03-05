@@ -1,0 +1,32 @@
+<!-- <view class="page">
+    <view class="page__hd">
+        <view class="page__title">Grid</view>
+        <view class="page__desc">九宫格</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-grids">
+            <block wx:for="{{grids}}" wx:key="*this">
+                <navigator url="{{item.url}}" class="weui-grid" hover-class="weui-grid_active">
+                    <image class="weui-grid__icon" src="/images/a.jpg" />
+                    <view class="weui-grid__label">{{item.name}}</view>
+                </navigator>
+            </block>
+        </view>
+    </view>
+</view> -->
+<view class="page">
+  <view class="page__hd">
+    <view class="page__title">Grid</view>
+    <view class="page__desc">九宫格</view>
+  </view>
+  <view class="page__bd">
+    <view class="weui-grids">
+      <block wx:for="{{grids}}" wx:key="indes">
+        <navigator url="{{urls[index]}}" class="weui-grid" hover-class="weui-grid_active">
+          <image class="weui-grid__icon" src="/images/a.jpg" />
+          <view class="weui-grid__label">{{item.name}}</view>
+        </navigator>
+      </block>
+    </view>
+  </view>
+</view>
