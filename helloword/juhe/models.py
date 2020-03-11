@@ -9,12 +9,12 @@ class User1(models.Model):
     focus_cities = models.TextField(default=[])
     focus_constructions = models.TextField(default=[])
     focus_stocks = models.TextField(default=[])
+    # menu = models.ManyToManyField(App)
 
     def __str__(self):
         return self.nickname
 
     class Meta:
-
         indexes = [
             models.Index(fields=['nickname'], name='nickname')
         ]

@@ -1,0 +1,360 @@
+[2020-03-10 14:50:56,963] [INFO] slkafakljfesa
+[2020-03-10 14:50:56,963] [INFO] fwefw efwe ewf
+[2020-03-10 14:50:56,963] [INFO] ef fefe few wef
+2020-03-10 14:51:32,346, [MainThread: 16060]D:/pythonProject/django_web/helloword/testlog.py, logdemo, 11, INFO slkafakljfesa
+2020-03-10 14:51:32,347, [MainThread: 16060]D:/pythonProject/django_web/helloword/testlog.py, logdemo, 12, INFO fwefw efwe ewf
+2020-03-10 14:51:32,347, [MainThread: 16060]D:/pythonProject/django_web/helloword/testlog.py, logdemo, 13, INFO ef fefe few wef
+2020-03-10 15:04:52,149, [MainThread: 1244]D:/pythonProject/django_web/helloword/testlog.py, logdemo, 11, INFO slkafakljfesa
+2020-03-10 15:04:52,149, [MainThread: 1244]D:/pythonProject/django_web/helloword/testlog.py, logdemo, 12, INFO fwefw efwe ewf
+2020-03-10 15:04:52,149, [MainThread: 1244]D:/pythonProject/django_web/helloword/testlog.py, logdemo, 13, INFO ef fefe few wef
+2020-03-10 15:05:00,332, [MainThread: 11920]D:/pythonProject/django_web/helloword/testlog.py, logdemo, 11, INFO slkafakljfesa
+2020-03-10 15:05:00,333, [MainThread: 11920]D:/pythonProject/django_web/helloword/testlog.py, logdemo, 13, INFO ef fefe few wef
+2020-03-10 15:08:13,837, [MainThread: 18376]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-10 15:08:18,900, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\log.py, log_response, 228, WARNING Not Found: /
+2020-03-10 15:08:18,903, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, WARNING "GET / HTTP/1.1" 404 2139
+2020-03-10 15:08:19,020, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\log.py, log_response, 228, WARNING Not Found: /favicon.ico
+2020-03-10 15:08:19,022, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, WARNING "GET /favicon.ico HTTP/1.1" 404 2190
+2020-03-10 15:08:25,391, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin HTTP/1.1" 301 0
+2020-03-10 15:08:25,415, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/ HTTP/1.1" 302 0
+2020-03-10 15:08:25,542, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1915
+2020-03-10 15:08:25,580, [Thread-1: 16164]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/css/login.css HTTP/1.1" 200 1233
+2020-03-10 15:08:25,582, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+2020-03-10 15:08:25,592, [Thread-3: 15068]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/css/responsive.css HTTP/1.1" 200 18052
+2020-03-10 15:08:25,612, [Thread-3: 15068]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+2020-03-10 15:08:25,694, [Thread-3: 15068]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+2020-03-10 15:08:25,700, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+2020-03-10 15:09:28,533, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2044
+2020-03-10 15:09:28,585, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+2020-03-10 15:09:45,186, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2044
+2020-03-10 15:11:41,086, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+2020-03-10 15:11:41,126, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/ HTTP/1.1" 200 3675
+2020-03-10 15:11:41,165, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+2020-03-10 15:11:41,189, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+2020-03-10 15:11:41,190, [Thread-3: 15068]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+2020-03-10 15:12:09,031, [Thread-3: 15068]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/blog/article/ HTTP/1.1" 200 4794
+2020-03-10 15:12:09,080, [Thread-3: 15068]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/css/changelists.css HTTP/1.1" 200 6190
+2020-03-10 15:12:09,085, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:12:09,088, [Thread-1: 16164]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 280364
+2020-03-10 15:12:09,098, [Thread-3: 15068]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/js/actions.js HTTP/1.1" 200 6766
+2020-03-10 15:12:09,102, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/js/urlify.js HTTP/1.1" 200 8941
+2020-03-10 15:12:09,115, [Thread-1: 16164]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1530
+2020-03-10 15:12:09,120, [Thread-4: 8484]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+2020-03-10 15:12:09,124, [Thread-3: 15068]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+2020-03-10 15:12:09,125, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/js/core.js HTTP/1.1" 200 5723
+2020-03-10 15:12:09,126, [Thread-6: 16780]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6918
+2020-03-10 15:12:09,192, [Thread-6: 16780]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+2020-03-10 15:12:11,513, [Thread-6: 16780]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/ HTTP/1.1" 200 3675
+2020-03-10 15:12:13,076, [Thread-6: 16780]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/auth/user/ HTTP/1.1" 200 7040
+2020-03-10 15:12:13,110, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+2020-03-10 15:12:13,111, [Thread-3: 15068]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+2020-03-10 15:12:13,117, [Thread-6: 16780]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:12:13,165, [Thread-6: 16780]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+2020-03-10 15:12:21,628, [Thread-6: 16780]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/auth/user/2/change/ HTTP/1.1" 200 14842
+2020-03-10 15:12:21,655, [Thread-6: 16780]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/css/forms.css HTTP/1.1" 200 8518
+2020-03-10 15:12:21,670, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/js/calendar.js HTTP/1.1" 200 7777
+2020-03-10 15:12:21,673, [Thread-1: 16164]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 5753
+2020-03-10 15:12:21,673, [Thread-3: 15068]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 20232
+2020-03-10 15:12:21,673, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 12318
+2020-03-10 15:12:21,679, [Thread-4: 8484]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:12:21,681, [Thread-6: 16780]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+2020-03-10 15:12:21,689, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/css/widgets.css HTTP/1.1" 200 10322
+2020-03-10 15:12:21,705, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+2020-03-10 15:12:21,796, [Thread-2: 3544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+2020-03-10 15:12:21,807, [Thread-6: 16780]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+2020-03-10 15:12:21,811, [Thread-4: 8484]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+2020-03-10 15:12:21,812, [Thread-1: 16164]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+2020-03-10 15:12:21,822, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+2020-03-10 15:12:32,045, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+2020-03-10 15:12:32,117, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/auth/user/ HTTP/1.1" 200 7224
+2020-03-10 15:12:32,170, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:12:35,203, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/auth/user/2/change/ HTTP/1.1" 200 14845
+2020-03-10 15:12:36,970, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/auth/user/ HTTP/1.1" 200 7042
+2020-03-10 15:12:38,361, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/auth/user/1/change/ HTTP/1.1" 200 14837
+2020-03-10 15:12:38,409, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:12:53,944, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/auth/user/ HTTP/1.1" 200 7042
+2020-03-10 15:12:54,856, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/auth/user/2/change/ HTTP/1.1" 200 14845
+2020-03-10 15:13:00,622, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/ HTTP/1.1" 200 3994
+2020-03-10 15:13:05,814, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/blog/ HTTP/1.1" 200 2418
+2020-03-10 15:13:07,610, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/blog/ HTTP/1.1" 200 2418
+2020-03-10 15:13:09,846, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/ HTTP/1.1" 200 3994
+2020-03-10 15:13:10,964, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/blog/article/ HTTP/1.1" 200 4795
+2020-03-10 15:13:11,010, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:13:13,701, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/ HTTP/1.1" 200 3994
+2020-03-10 15:13:14,563, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/auth/user/2/change/ HTTP/1.1" 200 14845
+2020-03-10 15:13:37,592, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/ HTTP/1.1" 200 3994
+2020-03-10 15:13:38,667, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/blog/article/ HTTP/1.1" 200 4795
+2020-03-10 15:13:38,716, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:13:44,822, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/blog/article/3/change/ HTTP/1.1" 200 5287
+2020-03-10 15:13:44,863, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:13:46,504, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/blog/article/ HTTP/1.1" 200 4795
+2020-03-10 15:13:47,058, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/ HTTP/1.1" 200 3994
+2020-03-10 15:13:51,359, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/auth/group/ HTTP/1.1" 200 3482
+2020-03-10 15:13:51,400, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:13:52,584, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/ HTTP/1.1" 200 3994
+2020-03-10 15:13:53,524, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/auth/user/ HTTP/1.1" 200 7042
+2020-03-10 15:13:53,563, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:13:54,763, [Thread-5: 2676]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/ HTTP/1.1" 200 3994
+2020-03-10 15:16:14,627, [MainThread: 18376]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, trigger_reload, 222, INFO D:\pythonProject\django_web\helloword\juhe\admin.py changed, reloading.
+2020-03-10 15:16:15,536, [MainThread: 7068]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-10 15:16:19,424, [Thread-2: 11684]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/ HTTP/1.1" 200 4657
+2020-03-10 15:16:20,924, [Thread-2: 11684]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/user1/ HTTP/1.1" 200 6714
+2020-03-10 15:16:20,984, [Thread-2: 11684]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:16:24,018, [Thread-2: 11684]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/ HTTP/1.1" 200 4657
+2020-03-10 15:16:55,204, [MainThread: 7068]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, trigger_reload, 222, INFO D:\pythonProject\django_web\helloword\juhe\admin.py changed, reloading.
+2020-03-10 15:16:56,099, [MainThread: 808]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-10 15:17:27,878, [Thread-1: 18336]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/user1/ HTTP/1.1" 200 6714
+2020-03-10 15:17:27,939, [Thread-1: 18336]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:17:32,827, [Thread-1: 18336]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/user1/1/change/ HTTP/1.1" 200 7180
+2020-03-10 15:17:32,869, [Thread-1: 18336]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:17:39,290, [Thread-1: 18336]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/user1/ HTTP/1.1" 200 6714
+2020-03-10 15:22:47,722, [MainThread: 808]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, trigger_reload, 222, INFO D:\pythonProject\django_web\helloword\juhe\admin.py changed, reloading.
+2020-03-10 15:22:48,675, [MainThread: 11812]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-10 15:23:29,134, [MainThread: 17360]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-10 15:23:48,998, [MainThread: 17360]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, trigger_reload, 222, INFO D:\pythonProject\django_web\helloword\juhe\admin.py changed, reloading.
+2020-03-10 15:23:49,848, [MainThread: 15884]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-10 15:23:54,880, [Thread-1: 14772]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/user1/12/change/ HTTP/1.1" 302 0
+2020-03-10 15:23:54,977, [Thread-1: 14772]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/login/?next=/admin/juhe/user1/12/change/ HTTP/1.1" 200 1957
+2020-03-10 15:24:03,518, [Thread-1: 14772]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "POST /admin/login/?next=/admin/juhe/user1/12/change/ HTTP/1.1" 302 0
+2020-03-10 15:24:03,567, [Thread-1: 14772]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/user1/12/change/ HTTP/1.1" 200 5820
+2020-03-10 15:24:03,622, [Thread-1: 14772]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:24:08,115, [Thread-1: 14772]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/ HTTP/1.1" 200 2408
+2020-03-10 15:27:24,411, [MainThread: 15884]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, trigger_reload, 222, INFO D:\pythonProject\django_web\helloword\juhe\admin.py changed, reloading.
+2020-03-10 15:27:25,329, [MainThread: 9412]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-10 15:27:59,918, [MainThread: 9412]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, trigger_reload, 222, INFO D:\pythonProject\django_web\helloword\helloword\settings.py changed, reloading.
+2020-03-10 15:28:00,887, [MainThread: 16820]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-10 15:28:03,211, [Thread-2: 15392]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/ HTTP/1.1" 200 2408
+2020-03-10 15:28:05,558, [Thread-2: 15392]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/ HTTP/1.1" 200 2408
+2020-03-10 15:28:06,601, [Thread-2: 15392]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/user1/ HTTP/1.1" 200 6714
+2020-03-10 15:28:06,647, [Thread-2: 15392]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:34:43,451, [MainThread: 16820]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, trigger_reload, 222, INFO D:\pythonProject\django_web\helloword\juhe\admin.py changed, reloading.
+2020-03-10 15:34:44,371, [MainThread: 17656]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-10 15:34:49,314, [Thread-2: 224]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/user1/12/change/ HTTP/1.1" 302 0
+2020-03-10 15:34:49,418, [Thread-2: 224]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/login/?next=/admin/juhe/user1/12/change/ HTTP/1.1" 200 1957
+2020-03-10 15:34:59,329, [Thread-2: 224]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "POST /admin/login/?next=/admin/juhe/user1/12/change/ HTTP/1.1" 302 0
+2020-03-10 15:34:59,379, [Thread-2: 224]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/user1/12/change/ HTTP/1.1" 200 5820
+2020-03-10 15:34:59,446, [Thread-2: 224]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:35:05,759, [Thread-2: 224]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/ HTTP/1.1" 200 2408
+2020-03-10 15:35:07,428, [Thread-2: 224]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/user1/ HTTP/1.1" 200 6714
+2020-03-10 15:35:07,461, [Thread-2: 224]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:35:37,922, [Thread-2: 224]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/user1/add/ HTTP/1.1" 200 5608
+2020-03-10 15:35:37,980, [Thread-2: 224]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:35:44,668, [Thread-2: 224]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\log.py, log_response, 228, ERROR Internal Server Error: /admin/juhe/user1/add/
+Traceback (most recent call last):
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\contrib\admin\options.py", line 607, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\contrib\admin\sites.py", line 231, in inner
+    return view(request, *args, **kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\contrib\admin\options.py", line 1638, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\contrib\admin\options.py", line 1522, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\contrib\admin\options.py", line 1565, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "D:\pythonProject\django_web\helloword\juhe\admin.py", line 16, in save_model
+    return super(UserAdmin, self).save_model()
+TypeError: save_model() missing 4 required positional arguments: 'request', 'obj', 'form', and 'change'
+2020-03-10 15:35:44,671, [Thread-2: 224]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, ERROR "POST /admin/juhe/user1/add/ HTTP/1.1" 500 114120
+2020-03-10 15:40:37,553, [MainThread: 17656]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, trigger_reload, 222, INFO D:\pythonProject\django_web\helloword\juhe\admin.py changed, reloading.
+2020-03-10 15:40:38,487, [MainThread: 13180]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-10 15:40:44,890, [Thread-2: 15688]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "POST /admin/juhe/user1/add/ HTTP/1.1" 302 0
+2020-03-10 15:40:45,117, [Thread-2: 15688]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/user1/ HTTP/1.1" 200 7105
+2020-03-10 15:40:45,195, [Thread-2: 15688]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:40:48,023, [Thread-2: 15688]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/user1/13/change/ HTTP/1.1" 200 5814
+2020-03-10 15:40:48,068, [Thread-2: 15688]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:40:50,588, [Thread-2: 15688]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "POST /admin/juhe/user1/13/change/ HTTP/1.1" 302 0
+2020-03-10 15:40:50,659, [Thread-2: 15688]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/user1/ HTTP/1.1" 200 7107
+2020-03-10 15:40:50,704, [Thread-2: 15688]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:40:59,908, [Thread-2: 15688]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/user1/add/ HTTP/1.1" 200 5608
+2020-03-10 15:40:59,946, [Thread-2: 15688]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:41:05,070, [Thread-2: 15688]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\log.py, log_response, 228, ERROR Internal Server Error: /admin/juhe/user1/add/
+Traceback (most recent call last):
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\backends\utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\backends\mysql\base.py", line 74, in execute
+    return self.cursor.execute(query, args)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\MySQLdb\cursors.py", line 209, in execute
+    res = self._query(query)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\MySQLdb\cursors.py", line 315, in _query
+    db.query(q)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\MySQLdb\connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.IntegrityError: (1062, "Duplicate entry '' for key 'openid'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\contrib\admin\options.py", line 607, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\contrib\admin\sites.py", line 231, in inner
+    return view(request, *args, **kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\contrib\admin\options.py", line 1638, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\contrib\admin\options.py", line 1522, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\contrib\admin\options.py", line 1565, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "D:\pythonProject\django_web\helloword\juhe\admin.py", line 16, in save_model
+    return super(UserAdmin, self).save_model(request, obj, form, change)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\contrib\admin\options.py", line 1081, in save_model
+    obj.save()
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\models\base.py", line 746, in save
+    force_update=force_update, update_fields=update_fields)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\models\base.py", line 784, in save_base
+    force_update, using, update_fields,
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\models\base.py", line 887, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\models\base.py", line 926, in _do_insert
+    using=using, raw=raw,
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\models\query.py", line 1204, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1384, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\backends\utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\backends\utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\backends\utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\backends\utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\backends\utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\backends\mysql\base.py", line 74, in execute
+    return self.cursor.execute(query, args)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\MySQLdb\cursors.py", line 209, in execute
+    res = self._query(query)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\MySQLdb\cursors.py", line 315, in _query
+    db.query(q)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\MySQLdb\connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '' for key 'openid'")
+2020-03-10 15:41:05,079, [Thread-2: 15688]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, ERROR "POST /admin/juhe/user1/add/ HTTP/1.1" 500 222349
+2020-03-10 15:42:17,581, [Thread-2: 15688]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/user1/add/ HTTP/1.1" 200 5608
+2020-03-10 15:42:37,425, [MainThread: 13180]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, trigger_reload, 222, INFO D:\pythonProject\django_web\helloword\juhe\admin.py changed, reloading.
+2020-03-10 15:42:38,387, [MainThread: 6768]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-10 15:42:42,996, [Thread-1: 1860]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\log.py, log_response, 228, ERROR Internal Server Error: /admin/juhe/user1/add/
+Traceback (most recent call last):
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\backends\utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\backends\mysql\base.py", line 74, in execute
+    return self.cursor.execute(query, args)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\MySQLdb\cursors.py", line 209, in execute
+    res = self._query(query)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\MySQLdb\cursors.py", line 315, in _query
+    db.query(q)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\MySQLdb\connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.IntegrityError: (1062, "Duplicate entry '' for key 'openid'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\contrib\admin\options.py", line 607, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\contrib\admin\sites.py", line 231, in inner
+    return view(request, *args, **kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\contrib\admin\options.py", line 1638, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\contrib\admin\options.py", line 1522, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\contrib\admin\options.py", line 1565, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "D:\pythonProject\django_web\helloword\juhe\admin.py", line 16, in save_model
+    return super(UserAdmin, self).save_model(request, obj, form, change)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\contrib\admin\options.py", line 1081, in save_model
+    obj.save()
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\models\base.py", line 746, in save
+    force_update=force_update, update_fields=update_fields)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\models\base.py", line 784, in save_base
+    force_update, using, update_fields,
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\models\base.py", line 887, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\models\base.py", line 926, in _do_insert
+    using=using, raw=raw,
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\models\query.py", line 1204, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1384, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\backends\utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\backends\utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\backends\utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\backends\utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\backends\utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\django\db\backends\mysql\base.py", line 74, in execute
+    return self.cursor.execute(query, args)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\MySQLdb\cursors.py", line 209, in execute
+    res = self._query(query)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\MySQLdb\cursors.py", line 315, in _query
+    db.query(q)
+  File "D:\pythonProject\django_web\venv\lib\site-packages\MySQLdb\connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '' for key 'openid'")
+2020-03-10 15:42:43,009, [Thread-1: 1860]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, ERROR "POST /admin/juhe/user1/add/ HTTP/1.1" 500 222356
+2020-03-10 15:43:37,731, [MainThread: 6768]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, trigger_reload, 222, INFO D:\pythonProject\django_web\helloword\juhe\admin.py changed, reloading.
+2020-03-10 15:43:38,594, [MainThread: 17916]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-10 15:44:36,777, [MainThread: 16716]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-10 15:46:06,869, [MainThread: 16716]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, trigger_reload, 222, INFO D:\pythonProject\django_web\helloword\juhe\admin.py changed, reloading.
+2020-03-10 15:46:07,767, [MainThread: 4160]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-10 15:48:39,176, [Thread-1: 7364]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "POST /admin/juhe/user1/add/ HTTP/1.1" 302 0
+2020-03-10 15:48:39,342, [Thread-1: 7364]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/user1/ HTTP/1.1" 200 7319
+2020-03-10 15:48:39,397, [Thread-1: 7364]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:48:42,838, [Thread-1: 7364]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/user1/add/ HTTP/1.1" 200 5608
+2020-03-10 15:48:42,879, [Thread-1: 7364]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-10 15:48:49,327, [Thread-1: 7364]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "POST /admin/juhe/user1/add/ HTTP/1.1" 302 0
+2020-03-10 15:48:49,398, [Thread-1: 7364]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/user1/ HTTP/1.1" 200 7533
+2020-03-10 15:48:49,434, [Thread-1: 7364]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
