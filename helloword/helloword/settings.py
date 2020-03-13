@@ -206,6 +206,6 @@ CACHES = {
     }
 }
 
-CRINJOBS = [
+CRONJOBS = [
     ('*/2 * * * *', 'cron.jobs.dome')
 ]
