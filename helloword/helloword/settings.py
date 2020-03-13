@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'blog.apps.BlogConfig',
-    'juhe.apps.JuheConfig'
+    'juhe.apps.JuheConfig',
+    'django_crontab'
 ]
 
 MIDDLEWARE = [
@@ -204,3 +205,7 @@ CACHES = {
         'LOCATION': 'backend-cache'
     }
 }
+
+CRINJOBS = [
+    ('*/2 * * * *', 'cron.jobs.dome')
+]
