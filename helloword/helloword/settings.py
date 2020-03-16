@@ -46,6 +46,8 @@ MIDDLEWARE = [
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     # 'django.middleware.csrf.CsrfViewMiddleware',
+    'mymiddleware.mymiddleware.TestMiddle',
+    'mymiddleware.mymiddleware.StatisticsMiddle',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
@@ -146,6 +148,9 @@ LOGGING = {
             # 'format': '[%(asctime)s] [%(levelname)s] %(message)s',
             'format': '%(asctime)s, [%(threadName)s: %(thread)d]'
                       '%(pathname)s, %(funcName)s, %(lineno)d, %(levelname)s %(message)s'
+        },
+        'statistics': {
+            'format': ''
         }
     },
     'filters': {
@@ -174,7 +179,20 @@ LOGGING = {
             # 'class': 'logging.FileHandler',
             # 'filename': os.path.join(BASE_DIR, 'logs.log'),
             # 'formatter': 'verbose'
-        }
+        },
+        'statistics': {
+            'level': 'INFO',
+            'class': 'logging.handlers.RotatingFileHandler',
+            'filename': os.path.join(BASE_DIR, 'statistics.log'),
+            'maxBytes': 1024 * 1024 * 5,
+            'backupCount': 1,
+            'formatter': 'statistics',
+            'encoding': 'utf-8'
+            # 'level': 'INFO',
+            # 'class': 'logging.FileHandler',
+            # 'filename': os.path.join(BASE_DIR, 'logs.log'),
+            # 'formatter': 'verbose'
+        },
     },
     'loggers': {
         'django': {
@@ -182,6 +200,10 @@ LOGGING = {
             'filters': ['test'],
             'level': 'INFO',
             'propagate': True,
+        },
+        'statistics': {
+            'handlers': ['statistics'],
+            'level': 'DEBUG'
         }
     }
 }
@@ -207,5 +229,20 @@ CACHES = {
 }
 
 CRONJOBS = [
-    ('*/2 * * * *', 'cron.jobs.dome')
+    ('*/2 * * * *', 'cron.jobs.dome'),
+    ('*/5 * * * *', 'ops.jobs.send_email')
 ]
+
+# Email config
+# QQ邮箱 SMTP 服务器地址
+EMAIL_HOST = 'smtp.qq.com'
+# 端口  附加码25
+EMAIL_PORT = 465
+# 发送邮件的邮箱
+EMAIL_HOST_USER = '2485480043@qq.com'
+# 在邮箱中设置的客户端授权密码
+EMAIL_HOST_PASSWORD = 'tbulmpmysoecdhjh'
+# 开启TLS
+EMAIL_USE_TLS = True
+# 收件人看到的发件人
+EMAIL_FROM = '2485480043@qq.com'

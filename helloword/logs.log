@@ -358,3 +358,62 @@ django.db.utils.IntegrityError: (1062, "Duplicate entry '' for key 'openid'")
 2020-03-10 15:48:49,327, [Thread-1: 7364]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "POST /admin/juhe/user1/add/ HTTP/1.1" 302 0
 2020-03-10 15:48:49,398, [Thread-1: 7364]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/juhe/user1/ HTTP/1.1" 200 7533
 2020-03-10 15:48:49,434, [Thread-1: 7364]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+2020-03-16 10:27:47,203, [MainThread: 3232]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-16 10:28:33,220, [Thread-2: 13656]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\log.py, log_response, 228, WARNING Not Found: /
+2020-03-16 10:28:33,221, [Thread-2: 13656]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, WARNING "GET / HTTP/1.1" 404 2139
+2020-03-16 10:28:33,340, [Thread-2: 13656]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\log.py, log_response, 228, WARNING Not Found: /favicon.ico
+2020-03-16 10:28:33,344, [Thread-2: 13656]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, WARNING "GET /favicon.ico HTTP/1.1" 404 2190
+2020-03-16 10:28:47,745, [Thread-2: 13656]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\log.py, log_response, 228, WARNING Not Found: /blog
+2020-03-16 10:28:47,746, [Thread-2: 13656]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, WARNING "GET /blog HTTP/1.1" 404 2169
+2020-03-16 10:29:13,421, [Thread-2: 13656]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\log.py, log_response, 228, WARNING Not Found: /blog/
+2020-03-16 10:29:13,422, [Thread-2: 13656]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, WARNING "GET /blog/ HTTP/1.1" 404 2434
+2020-03-16 10:32:52,383, [MainThread: 3232]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, trigger_reload, 222, INFO D:\pythonProject\django_web\helloword\helloword\settings.py changed, reloading.
+2020-03-16 10:32:53,232, [MainThread: 1128]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-16 10:34:10,857, [MainThread: 1128]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, trigger_reload, 222, INFO D:\pythonProject\django_web\helloword\mymiddleware\mymiddleware.py changed, reloading.
+2020-03-16 10:34:11,681, [MainThread: 5076]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-16 10:34:19,632, [Thread-2: 13428]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /blog/index HTTP/1.1" 200 1155
+2020-03-16 10:34:21,812, [Thread-2: 13428]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /blog/index?page=1 HTTP/1.1" 200 1155
+2020-03-16 10:34:22,595, [Thread-2: 13428]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /blog/index?page=1 HTTP/1.1" 200 1155
+2020-03-16 10:38:57,293, [MainThread: 5076]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, trigger_reload, 222, INFO D:\pythonProject\django_web\helloword\mymiddleware\mymiddleware.py changed, reloading.
+2020-03-16 10:38:58,239, [MainThread: 8932]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-16 10:38:58,576, [Thread-1: 1544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /blog/index?page=1 HTTP/1.1" 200 1155
+2020-03-16 10:41:39,689, [Thread-1: 1544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/ HTTP/1.1" 302 0
+2020-03-16 10:41:39,796, [Thread-1: 1544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1915
+2020-03-16 10:41:39,824, [Thread-1: 1544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+2020-03-16 10:41:39,828, [Thread-4: 13032]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/css/login.css HTTP/1.1" 200 1233
+2020-03-16 10:41:39,850, [Thread-1: 1544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+2020-03-16 10:41:39,850, [Thread-5: 9752]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/css/responsive.css HTTP/1.1" 200 18052
+2020-03-16 10:41:39,906, [Thread-1: 1544]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+2020-03-16 10:41:39,906, [Thread-5: 9752]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+2020-03-16 10:42:04,291, [Thread-5: 9752]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2048
+2020-03-16 10:42:04,352, [Thread-5: 9752]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+2020-03-16 10:46:01,992, [MainThread: 8932]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, trigger_reload, 222, INFO D:\pythonProject\django_web\helloword\mymiddleware\mymiddleware.py changed, reloading.
+2020-03-16 10:46:02,876, [MainThread: 7488]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-16 11:01:12,262, [MainThread: 7488]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, trigger_reload, 222, INFO D:\pythonProject\django_web\helloword\helloword\settings.py changed, reloading.
+2020-03-16 11:01:13,406, [MainThread: 11868]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-16 11:01:37,222, [MainThread: 11868]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, trigger_reload, 222, INFO D:\pythonProject\django_web\helloword\helloword\settings.py changed, reloading.
+2020-03-16 11:01:38,232, [MainThread: 3092]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-16 11:35:14,460, [MainThread: 3092]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, trigger_reload, 222, INFO D:\pythonProject\django_web\helloword\helloword\settings.py changed, reloading.
+2020-03-16 11:35:15,370, [MainThread: 5440]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-16 14:20:09,902, [MainThread: 11012]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-16 14:20:20,687, [Thread-1: 2732]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\log.py, log_response, 228, WARNING Not Found: /
+2020-03-16 14:20:20,688, [Thread-1: 2732]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, WARNING "GET / HTTP/1.1" 404 2139
+2020-03-16 14:20:20,862, [Thread-1: 2732]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\log.py, log_response, 228, WARNING Not Found: /favicon.ico
+2020-03-16 14:20:20,863, [Thread-1: 2732]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, WARNING "GET /favicon.ico HTTP/1.1" 404 2190
+2020-03-16 14:20:30,305, [Thread-1: 2732]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\log.py, log_response, 228, WARNING Not Found: /blog/
+2020-03-16 14:20:30,309, [Thread-1: 2732]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, WARNING "GET /blog/ HTTP/1.1" 404 2434
+2020-03-16 14:20:36,466, [Thread-1: 2732]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /blog/index HTTP/1.1" 200 1155
+2020-03-16 14:20:38,855, [Thread-1: 2732]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /blog/index HTTP/1.1" 200 1155
+2020-03-16 14:20:39,079, [Thread-1: 2732]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /blog/index HTTP/1.1" 200 1155
+2020-03-16 14:20:39,282, [Thread-1: 2732]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /blog/index HTTP/1.1" 200 1155
+2020-03-16 14:20:39,471, [Thread-1: 2732]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /blog/index HTTP/1.1" 200 1155
+2020-03-16 14:20:39,663, [Thread-1: 2732]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /blog/index HTTP/1.1" 200 1155
+2020-03-16 14:21:14,792, [MainThread: 11012]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, trigger_reload, 222, INFO D:\pythonProject\django_web\helloword\helloword\settings.py changed, reloading.
+2020-03-16 14:21:15,675, [MainThread: 9584]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\autoreload.py, run_with_reloader, 598, INFO Watching for file changes with StatReloader
+2020-03-16 14:21:22,221, [Thread-2: 3476]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /blog/index HTTP/1.1" 200 1155
+2020-03-16 14:21:22,317, [Thread-2: 3476]D:\pythonProject\django_web\venv\lib\site-packages\django\utils\log.py, log_response, 228, WARNING Not Found: /favicon.ico
+2020-03-16 14:21:22,318, [Thread-2: 3476]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, WARNING "GET /favicon.ico HTTP/1.1" 404 2190
+2020-03-16 14:21:24,532, [Thread-2: 3476]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /blog/index HTTP/1.1" 200 1155
+2020-03-16 14:21:24,750, [Thread-2: 3476]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /blog/index HTTP/1.1" 200 1155
+2020-03-16 14:21:24,942, [Thread-2: 3476]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /blog/index HTTP/1.1" 200 1155
+2020-03-16 14:21:25,135, [Thread-2: 3476]D:\pythonProject\django_web\venv\lib\site-packages\django\core\servers\basehttp.py, log_message, 157, INFO "GET /blog/index HTTP/1.1" 200 1155
